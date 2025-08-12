@@ -1,31 +1,46 @@
 # Snake-Master2.O
-A browser-based classic Snake Game built with HTML, CSS, and JavaScript. This project is a fun way to practice DOM manipulation, event handling, and game loop logic while delivering an interactive gaming experience directly in the web browser.
+A browser-based classic Snake Game built with HTML, CSS, and JavaScript. This enhanced version offers modern controls, customizable difficulty levels, music, and interactive UI elements for a more engaging gameplay experience.
 
 🎮 Features
 Smooth arrow-key controls for snake movement
 
+Start / Pause / Resume / Restart game functionality
+
 Dynamic snake growth upon eating food
 
-Real-time score tracking
+Real-time score tracking and high-score display
 
-Game-over detection and restart functionality
+Game level selection – Easy, Medium, Hard (affects snake speed)
 
-Responsive layout for various screen sizes
+Background music with Play / Pause toggle
+
+Game-over detection with restart prompt
+
+Responsive design for various devices
 
 🛠 Technologies Used
-HTML5 – Structure and game elements
+HTML5 – Structure and UI elements
 
-CSS3 – Styling and responsive design
+CSS3 – Styling, animations, and responsive design
 
-JavaScript (ES6) – Game logic and interactivity
+JavaScript (ES6) – Game logic, level selection, and interactivity
 
 🚀 How to Play
 Open the game in your browser.
 
+Select your preferred difficulty level: Easy 🐢, Medium 🐍, or Hard ⚡.
+
+Press Start to begin the game.
+
 Use arrow keys (⬆⬇⬅➡) to control the snake’s direction.
 
-Eat the red food to grow and increase your score.
+Eat the food to grow and increase your score.
 
+Avoid colliding with walls or your own tail.
+
+Pause or resume the game anytime, and restart when needed.
+
+Enjoy background music (you can pause or play it anytime).
 Avoid colliding with the walls or your own tail.
 
 Try to achieve the highest score possible!
